@@ -1,2 +1,1 @@
-rembg
-pillow
+backgroundremover
